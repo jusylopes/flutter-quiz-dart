@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'components/quiz.dart';
 import 'components/result.dart';
 
-class QuizAppPage extends StatefulWidget {
-  const QuizAppPage({Key? key}) : super(key: key);
+class QuizHomePage extends StatefulWidget {
+  const QuizHomePage({Key? key}) : super(key: key);
 
   @override
-  State<QuizAppPage> createState() => _QuizAppPageState();
+  State<QuizHomePage> createState() => _QuizHomePageState();
 }
 
-class _QuizAppPageState extends State<QuizAppPage> {
+class _QuizHomePageState extends State<QuizHomePage> {
   var _selectedQuestion = 0;
   var _totalScore = 0;
 
