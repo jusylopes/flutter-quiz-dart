@@ -1,4 +1,7 @@
-![Dar-quiz](https://github.com/jusylopes/quiz-dart/blob/main/assets/images/dart-quiz.png?raw=true)
+<p>
+<img src="screenshots/dart-quiz.png" width="80%">
+</p>
+
 
 # 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jusylopes/quiz-dart/blob/main/LICENSE) 
@@ -9,7 +12,11 @@ Dart quiz é um joguinho de perguntas e respostas desenvolvido em Flutter sobre 
 
 
 ## Layout mobile
-![Mobile 1](https://raw.githubusercontent.com/jusylopes/quiz-dart/main/assets/images/Screenshot_1.png) ![Mobile 2](https://raw.githubusercontent.com/jusylopes/quiz-dart/main/assets/images/Screenshot_2.png) ![Mobile 3](https://github.com/jusylopes/quiz-dart/blob/main/assets/images/Screenshot_3.png?raw=true)
+<p>
+<img src="screenshots/Screenshot_1663675944.png" width="25%">
+<img src="screenshots/Screenshot_1663676049.png" width="25%">
+<img src="screenshots/Screenshot_1663676070.png" width="25%">
+</p>
 
 ## Tecnologias utilizadas
 
