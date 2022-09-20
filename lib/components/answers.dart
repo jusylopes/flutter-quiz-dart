@@ -18,7 +18,7 @@ class Answers extends StatelessWidget {
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(25.0),
               ),
-              primary: const Color(0xFF993399),
+              backgroundColor: const Color(0xFF993399),
               textStyle: const TextStyle(
                 fontSize: 20,
               )),
